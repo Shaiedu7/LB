@@ -1,0 +1,20 @@
+p {
+  text-align: ;
+  text-indent: em;
+  font-family: Times New Roman;
+  font-size: 20px;
+}
+img {
+  width:600px;
+  height:800px;
+  float: left;
+}
+h1 {
+  color: red;
+  font-family: serif;
+  font-size: 50px;
+}
+
+body {
+  background-color: #EFF5F5;
+}
